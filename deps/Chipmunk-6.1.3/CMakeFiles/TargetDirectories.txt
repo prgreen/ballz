@@ -1,0 +1,2 @@
+D:/prog/ballz/deps/Chipmunk-6.1.3/src/CMakeFiles/chipmunk.dir
+D:/prog/ballz/deps/Chipmunk-6.1.3/src/CMakeFiles/chipmunk_static.dir

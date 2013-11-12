@@ -1,0 +1,40 @@
+FILE(REMOVE_RECURSE
+  "CMakeFiles/chipmunk.dir/chipmunk.c.obj"
+  "CMakeFiles/chipmunk.dir/cpArbiter.c.obj"
+  "CMakeFiles/chipmunk.dir/cpArray.c.obj"
+  "CMakeFiles/chipmunk.dir/cpBB.c.obj"
+  "CMakeFiles/chipmunk.dir/cpBBTree.c.obj"
+  "CMakeFiles/chipmunk.dir/cpBody.c.obj"
+  "CMakeFiles/chipmunk.dir/cpCollision.c.obj"
+  "CMakeFiles/chipmunk.dir/cpHashSet.c.obj"
+  "CMakeFiles/chipmunk.dir/cpPolyShape.c.obj"
+  "CMakeFiles/chipmunk.dir/cpShape.c.obj"
+  "CMakeFiles/chipmunk.dir/cpSpace.c.obj"
+  "CMakeFiles/chipmunk.dir/cpSpaceComponent.c.obj"
+  "CMakeFiles/chipmunk.dir/cpSpaceHash.c.obj"
+  "CMakeFiles/chipmunk.dir/cpSpaceQuery.c.obj"
+  "CMakeFiles/chipmunk.dir/cpSpaceStep.c.obj"
+  "CMakeFiles/chipmunk.dir/cpSpatialIndex.c.obj"
+  "CMakeFiles/chipmunk.dir/cpSweep1D.c.obj"
+  "CMakeFiles/chipmunk.dir/cpVect.c.obj"
+  "CMakeFiles/chipmunk.dir/constraints/cpConstraint.c.obj"
+  "CMakeFiles/chipmunk.dir/constraints/cpDampedRotarySpring.c.obj"
+  "CMakeFiles/chipmunk.dir/constraints/cpDampedSpring.c.obj"
+  "CMakeFiles/chipmunk.dir/constraints/cpGearJoint.c.obj"
+  "CMakeFiles/chipmunk.dir/constraints/cpGrooveJoint.c.obj"
+  "CMakeFiles/chipmunk.dir/constraints/cpPinJoint.c.obj"
+  "CMakeFiles/chipmunk.dir/constraints/cpPivotJoint.c.obj"
+  "CMakeFiles/chipmunk.dir/constraints/cpRatchetJoint.c.obj"
+  "CMakeFiles/chipmunk.dir/constraints/cpRotaryLimitJoint.c.obj"
+  "CMakeFiles/chipmunk.dir/constraints/cpSimpleMotor.c.obj"
+  "CMakeFiles/chipmunk.dir/constraints/cpSlideJoint.c.obj"
+  "libchipmunk.pdb"
+  "libchipmunk.dll"
+  "libchipmunk.dll.a"
+  "libchipmunk.dll.manifest"
+)
+
+# Per-language clean rules from dependency scanning.
+FOREACH(lang C)
+  INCLUDE(CMakeFiles/chipmunk.dir/cmake_clean_${lang}.cmake OPTIONAL)
+ENDFOREACH(lang)
